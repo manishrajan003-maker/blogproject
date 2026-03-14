@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Introduction to Node.js",
+    "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine...",
+    "category": "Programming",
+    "author": "Jane Doe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+    "createdAt": "2024-07-15T10:00:00Z",
+    "updatedAt": "2024-07-15T10:00:00Z"
+  },
+  {
+    "title": "Getting Started with MongoDB",
+    "content": "MongoDB is a NoSQL database that uses a document-oriented data model...",
+    "category": "Database",
+    "author": "John Smith",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg",
+    "createdAt": "2024-07-16T11:00:00Z",
+    "updatedAt": "2024-07-16T11:00:00Z"
+  },
+  {
+    "title": "Exploring Express.js",
+    "content": "Express.js is a minimal and flexible Node.js web application framework...",
+    "category": "Framework",
+    "author": "Alice Johnson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+    "createdAt": "2024-07-17T12:00:00Z",
+    "updatedAt": "2024-07-17T12:00:00Z"
+  },
+  {
+    "title": "Understanding RESTful APIs",
+    "content": "RESTful APIs are a set of design principles for creating networked applications...",
+    "category": "API",
+    "author": "Bob Brown",
+    "image":  "https://cdn-icons-png.flaticon.com/512/2799/2799187.png",
+    "createdAt": "2024-07-18T13:00:00Z",
+    "updatedAt": "2024-07-18T13:00:00Z"
+  },
+  {
+    "title": "Introduction to JavaScript ES6",
+    "content": "ECMAScript 6 (ES6), also known as ECMAScript 2015, introduced a variety of new features...",
+    "category": "JavaScript",
+    "author": "Emily Davis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "createdAt": "2024-07-19T14:00:00Z",
+    "updatedAt": "2024-07-19T14:00:00Z"
+  }
+]
